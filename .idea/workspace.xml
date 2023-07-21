@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d38d97ca-429b-4311-9a34-27d6e85dd658" name="Changes" comment="Алишев Spring Framework. Inversion of Control (IoC) Выполнил домашку">
+    <list default="true" id="d38d97ca-429b-4311-9a34-27d6e85dd658" name="Changes" comment="Алишев Spring Framework. Dependency Injection (DI) part 1">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MusicPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
     </list>
@@ -84,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689934773437</updated>
-      <workItem from="1689934774658" duration="7962000" />
+      <workItem from="1689934774658" duration="13443000" />
     </task>
     <task id="LOCAL-00001" summary="Алишев Spring Framework. Первое приложение.">
       <option name="closed" value="true" />
@@ -126,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689942698720</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Алишев Spring Framework. Dependency Injection (DI) part 1">
+      <option name="closed" value="true" />
+      <created>1689943764387</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689943764387</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +148,7 @@
     <MESSAGE value="Алишев Spring Framework. Первое приложение." />
     <MESSAGE value="Алишев Spring Framework. Inversion of Control (IoC)" />
     <MESSAGE value="Алишев Spring Framework. Inversion of Control (IoC) Выполнил домашку" />
-    <option name="LAST_COMMIT_MESSAGE" value="Алишев Spring Framework. Inversion of Control (IoC) Выполнил домашку" />
+    <MESSAGE value="Алишев Spring Framework. Dependency Injection (DI) part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Алишев Spring Framework. Dependency Injection (DI) part 1" />
   </component>
 </project>
